@@ -1,7 +1,0 @@
-﻿Designator,Quantity,Value,Footprint,Package,MPN,DNP,Mount_Type,Comment,MF,Description_1,Price,Check_prices,STANDARD,PARTREV,SnapEDA_Link,MP,Availability,MANUFACTURER,Description
-J1,1,776228-1,TE_776228-1,None,,,tht,776228-1,TE Connectivity,"
-                        
-                            AMPSEAL Series, 23 Way Through Hole Plug Power Conn, with Solder Termination | TE Connectivity 776228-1
-                        
-",None,https://www.snapeda.com/parts/776228-1/TE+Connectivity+AMP+Connectors/view-part/?ref=eda,MANUFACTURER RECOMMENDATIONS,C13,https://www.snapeda.com/parts/776228-1/TE+Connectivity+AMP+Connectors/view-part/?ref=snap,776228-1,In Stock,TE CONNECTIVITY,
-J2,1,Conn_02x02_Odd_Even,Molex_Mini-Fit_Jr_5566-04A_2x02_P4.20mm_Vertical,,,,tht,,,,,,,,,,,,"Generic connector, double row, 02x02, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
