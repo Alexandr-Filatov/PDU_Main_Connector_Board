@@ -1054,6 +1054,16 @@
 		)
 		(uuid "1bd8804f-b34d-4fcb-b684-c95a716906d0")
 	)
+	(text "НВЦТ.0001.0400.400"
+		(exclude_from_sim no)
+		(at 16.51 35.56 90)
+		(effects
+			(font
+				(size 2.5 2.5)
+			)
+		)
+		(uuid "91ea9a15-a5db-451f-8b35-0361069be20e")
+	)
 	(no_connect
 		(at 219.71 105.41)
 		(uuid "0924d6d1-2d91-4460-a757-29fc7a3cb65e")
